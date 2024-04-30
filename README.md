@@ -1,10 +1,10 @@
 # 🐧 Hey there, I'm Calvyn!
 👨🏻‍🎓 Currently a final year student <br> 📚 Studying BSc Computer Science at the University of Pretoria <br> 👨🏻‍💻 Linux enthusiast
 
-## About Me
+## 🔎 About Me
 Being passionate about computers since a young age I've always been, and still am, keen to learn new things. I am by heart a very curious person, who likes to delve deeper into the inner workings of processes and systems. I enjoy tinkering, trying new things and spending time with people.
 
-## Experience
+## ⚙️ Experience
 I have worked in different group sizes building different programs: 
 * Completed a website advertising different [wines](https://github.com/Yi-Rou1234/COS221) 
 * Completed a large assignment testing different [design patterns](https://github.com/Donatello-Carboni/COS214Assignment) 
