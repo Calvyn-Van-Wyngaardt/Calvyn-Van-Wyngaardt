@@ -8,7 +8,8 @@ Being passionate about computers since a young age I've always been, and still a
 I have worked in different group sizes building different programs: 
 * Completed a website advertising different [wines](https://github.com/Yi-Rou1234/COS221) 
 * Completed a large assignment testing different [design patterns](https://github.com/Donatello-Carboni/COS214Assignment) 
-* Currently working on building a [Pinterest clone](https://github.com/COS301-SE-2024/MiniProject1).
+* Built a [Pinterest clone](https://github.com/COS301-SE-2024/MiniProject1).
+* Currently working on a [Travel Planning App](https://github.com/).
 
 I specialize primarily in backend development, working with APIs. However, I enjoy working with all the different parts of a project.
 
@@ -18,5 +19,7 @@ I specialize primarily in backend development, working with APIs. However, I enj
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/calvyn-van-wyngaardt-266277231) 
 
+#### Other fun stats:
+[![wakatime](https://wakatime.com/badge/user/43f80992-2494-40d8-ab4c-13463105ab46.svg)](https://wakatime.com/@43f80992-2494-40d8-ab4c-13463105ab46)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
