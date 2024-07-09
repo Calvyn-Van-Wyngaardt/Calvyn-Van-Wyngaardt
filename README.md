@@ -5,11 +5,11 @@
 Being passionate about computers since a young age I've always been, and still am, keen to learn new things. I am by heart a very curious person, who likes to delve deeper into the inner workings of processes and systems. I enjoy tinkering, trying new things and spending time with people.
 
 ## ⚙️ Experience
-I have worked in different group sizes building different programs: 
-* Completed a website advertising different [wines](https://github.com/Yi-Rou1234/COS221) 
-* Completed a large assignment testing different [design patterns](https://github.com/Donatello-Carboni/COS214Assignment) 
-* Built a [Pinterest clone](https://github.com/COS301-SE-2024/MiniProject1).
-* Currently working on a [Travel Planning App](https://github.com/).
+I have worked in different group sizes collaborating on different projects: 
+* A website advertising different [wines](https://github.com/Yi-Rou1234/COS221) 
+* A large assignment showcasing the usage of different [design patterns](https://github.com/Donatello-Carboni/COS214Assignment) 
+* [Pinterest clone](https://github.com/COS301-SE-2024/MiniProject1).
+* Currently working on a [Travel Planning App](https://github.com/COS301-SE-2024/ABC-Travel-Planner).
 
 I specialize primarily in backend development, working with APIs. However, I enjoy working with all the different parts of a project.
 
