@@ -1,5 +1,5 @@
 # 🐧 Hey there, I'm Calvyn!
-👨🏻‍🎓 Currently a final year student <br> 📚 Studying BSc Computer Science at the University of Pretoria <br> 👨🏻‍💻 Linux enthusiast
+👨🏻‍🎓 Currently a BScHons student <br> 📚 Studying BSc Computer Science at the University of Pretoria <br> 👨🏻‍💻 Linux enthusiast
 
 ## 🔎 About Me
 Being passionate about computers since a young age I've always been, and still am, keen to learn new things. I am by heart a very curious person, who likes to delve deeper into the inner workings of processes and systems. I enjoy tinkering, trying new things and spending time with people.
@@ -9,7 +9,7 @@ I have worked in different group sizes collaborating on different projects:
 * A website advertising different [wines](https://github.com/Yi-Rou1234/COS221) - Private Repository.
 * A large assignment showcasing the usage of different [design patterns](https://github.com/Donatello-Carboni/COS214Assignment).
 * [Pinterest clone](https://github.com/COS301-SE-2024/MiniProject1) - Private Repository.
-* Currently working on a [Travel Planning App](https://github.com/COS301-SE-2024/ABC-Travel-Planner).
+* Completed as part of our Capstone project a [Travel Planning App](https://github.com/COS301-SE-2024/ABC-Travel-Planner).
 
 I specialize primarily in backend development, working with APIs. However, I enjoy working with all the different parts of a project.
 
